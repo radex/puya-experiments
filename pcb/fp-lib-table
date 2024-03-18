@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "py32f002a")(type "KiCad")(uri "/Users/radex/Documents/KiCad/Projects/py32f002a")(options "")(descr ""))
+)
