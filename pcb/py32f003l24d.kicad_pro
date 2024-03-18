@@ -488,7 +488,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../Applications/KiCad/",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",

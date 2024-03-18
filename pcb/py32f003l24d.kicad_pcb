@@ -545,7 +545,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R151"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9fe16f82-7787-4ecf-9395-a4923d7896f5")
@@ -557,7 +557,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "887f29fd-8c81-45fb-92a9-b3e880bae443")
 			(effects
@@ -722,7 +722,7 @@
 			(uuid "6cb59735-95e2-4c6f-b887-b73e5e967daa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "777ac1a3-f450-4361-bdfb-fce23f2343d0")
 			(effects
@@ -1074,7 +1074,7 @@
 			(pintype "power_in")
 			(uuid "c65587aa-d794-4942-b625-6c8dc18c8cea")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
